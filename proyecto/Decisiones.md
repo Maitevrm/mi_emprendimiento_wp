@@ -10,7 +10,7 @@ Al menos **5 plugins**, cada uno vale 2 pts. **SEO** y **contacto** son obligato
 | # | Funcionalidad | Plugin | Gratis o de pago | Qué incluye la versión gratis | Probado hasta (WP) | Requiere PHP | ¿Funciona con tema propio? | Enlace a la ficha |
 |---|---|---|---|---|---|---|---|---|
 | 1 | SEO (obligatorio) | Yoast SEO | Gratis, con versión Premium de pago | Análisis de contenido y legibilidad, título y meta descripción, mapa del sitio XML, datos estructurados básicos | 7.1.4 | 7.4 o superior | Sí, funciona con cualquier tema | https://wordpress.org/plugins/wordpress-seo/ |
-| 2 | Contacto (obligatorio): llamar o escribir un correo rápido y consultar por una ventana específica | Forminator | (gratis o de pago, según la ficha) | (qué incluye la versión gratis, según la ficha) | (Tested up to) | (PHP version) | (según lo que veas en la ficha) | https://wordpress.org/plugins/forminator/ |
+| 2 | Contacto (obligatorio): llamar o escribir un correo rápido y consultar por una ventana específica | Forminator | Gratis, con versión de pago (Pro) | Constructor de formularios de contacto y formularios personalizados | 7.1.5 | 7.4 o superior | Sí, funciona con cualquier tema | https://wordpress.org/plugins/forminator/ |
 | 3 | Contactar por WhatsApp para pedir presupuesto, sin formularios | Joinchat | Gratis, con versión de pago (Premium) | Botón flotante de WhatsApp, mensaje inicial personalizable, horario de atención | 7.1.4 | 7.0 o superior | Sí, funciona con cualquier tema | https://wordpress.org/plugins/creame-whatsapp-me/ |
 | 4 | Galería de trabajos realizados | Modula | Gratis, con versión Pro de pago | Galerías en cuadrícula y masonry, constructor drag-and-drop, soporte de video y lightbox | 7.1.4 | 5.6 o superior | Sí, la ficha dice que funciona con cualquier tema | https://wordpress.org/plugins/modula-best-grid-gallery/ |
 | 5 | Experiencias de clientes: leerlas y dejar la propia (nombre, tipo de trabajo, opinión) | Strong Testimonials | Gratis, con versión de pago (Premium) | Formulario para recoger testimonios y formas de mostrarlos en el sitio | 7.1.4 | 5.6 o superior | Sí, hereda el estilo del tema que uses | https://wordpress.org/plugins/strong-testimonials/ |
@@ -77,6 +77,6 @@ Qué hago si algo no funciona. **Al menos 3 riesgos**, cada uno con su mitigaci�
 
 | Qué cambié | Qué había antes | Por qué | Evidencia (captura o commit) |
 |---|---|---|---|
-| Uso Forminator como plugin de contacto | Contact Form 7 | (tu razón real) | Captura del formulario de Contacto |
+| Uso Forminator como plugin de contacto | Contact Form 7 | Porque me resultó más fácil de configurar con un editor visual y pude armar el formulario con los campos que necesita la empresa (nombre, correo, teléfono y mensaje). | Captura del formulario de Contacto |
 | Agregué la página "Sobre nosotros" | No estaba en la fase 1 | Para presentar a la empresa y generar confianza | Captura de la página |
 **Decisión:** Continúo con mi propuesta. Solo cambié el plugin de contacto (de Contact Form 7 a Forminator) y agregué la página "Sobre nosotros"; el resto del plan se mantiene.
