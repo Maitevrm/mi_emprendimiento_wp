@@ -29,8 +29,7 @@ Al menos **5 plugins**, cada uno vale 2 pts. **SEO** y **contacto** son obligato
 | 4 | Galería de trabajos | Permite ver trabajos realizados para comprobar la calidad del servicio. |
 | 5 | Experiencias de clientes | Genera confianza antes de contratar con opiniones de otros clientes. |
 
-**Páginas que dejo para después:** Catálogo de ventanas con búsqueda, filtros y variantes · Blog con categorías, comentarios y compartir · Comunas de la V Región donde trabaja la empresa · Redes sociales (Instagram y Facebook) · Filtro de la galería por tipo de obra o ventana (requiere Modula Pro, que es de pago).
-
+**Páginas que dejo para después:** Catálogo de ventanas con búsqueda, filtros y variantes · Comunas de la V Región donde trabaja la empresa · Filtro de la galería por tipo de obra o ventana (requiere Modula Pro, que es de pago).
 ## 3. Plan del tema (5 pts)
 
 - **Nombre del tema:** Construcciones Maibru
@@ -74,9 +73,10 @@ Qué hago si algo no funciona. **Al menos 3 riesgos**, cada uno con su mitigaci�
 
 ## Cambios respecto de la Sumativa 2 (solo en el checkpoint del 18 nov)
 
+## Cambios respecto de la Sumativa 2 (solo en el checkpoint del 18 nov)
+
 | Qué cambié | Qué había antes | Por qué | Evidencia (captura o commit) |
 |---|---|---|---|
-| Uso Forminator como plugin de contacto | Contact Form 7 | (completar: por ejemplo, porque me resultó más fácil de configurar y diseñar el formulario) | La captura de tu formulario de Contacto |
-| Agregué la página "Sobre nosotros" | No estaba en las páginas de la fase 1 | Para presentar a la empresa y generar confianza | Captura de la página |
-
+| Uso Forminator como plugin de contacto | Contact Form 7 | (tu razón real) | Captura del formulario de Contacto |
+| Agregué la página "Sobre nosotros" | No estaba en la fase 1 | Para presentar a la empresa y generar confianza | Captura de la página |
 **Decisión:** Continúo con mi propuesta. Solo cambié el plugin de contacto (de Contact Form 7 a Forminator) y agregué la página "Sobre nosotros"; el resto del plan se mantiene.
