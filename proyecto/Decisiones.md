@@ -79,4 +79,5 @@ Qué hago si algo no funciona. **Al menos 3 riesgos**, cada uno con su mitigaci�
 |---|---|---|---|
 | Uso Forminator como plugin de contacto | Contact Form 7 | Porque me resultó más fácil de configurar con un editor visual y pude armar el formulario con los campos que necesita la empresa (nombre, correo, teléfono y mensaje). | Captura del formulario de Contacto |
 | Agregué la página "Sobre nosotros" | No estaba en la fase 1 | Para presentar a la empresa y generar confianza | Captura de la página |
+
 **Decisión:** Continúo con mi propuesta. Solo cambié el plugin de contacto (de Contact Form 7 a Forminator) y agregué la página "Sobre nosotros"; el resto del plan se mantiene.
