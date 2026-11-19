@@ -76,6 +76,7 @@ Qué hago si algo no funciona. **Al menos 3 riesgos**, cada uno con su mitigaci�
 
 | Qué cambié | Qué había antes | Por qué | Evidencia (captura o commit) |
 |---|---|---|---|
-| | | | |
+| Uso Forminator como plugin de contacto | Contact Form 7 | (completar: por ejemplo, porque me resultó más fácil de configurar y diseñar el formulario) | La captura de tu formulario de Contacto |
+| Agregué la página "Sobre nosotros" | No estaba en las páginas de la fase 1 | Para presentar a la empresa y generar confianza | Captura de la página |
 
-**Decisión:** (continúo con mi propuesta / pivoteo, y por qué)
+**Decisión:** Continúo con mi propuesta. Solo cambié el plugin de contacto (de Contact Form 7 a Forminator) y agregué la página "Sobre nosotros"; el resto del plan se mantiene.
