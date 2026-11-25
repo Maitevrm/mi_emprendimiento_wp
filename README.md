@@ -24,7 +24,6 @@ Marca una opción y borra la otra sección de instrucciones.
 
 ## Instrucciones si uso un tema descargado
 
-*(Borra esta sección si usas un tema propio.)*
 
 ### Requisitos del tema
 
@@ -97,7 +96,7 @@ El objetivo de este proyecto es que puedas **respaldar tu sitio y reinstalarlo e
 
 ## Cómo me organicé
 
-Mi plan y mi plan B están en [`decisiones.md`](proyecto/decisiones.md) (si haces tema propio, está en `proyecto/documentacion/`). (Si cambiaste de rumbo, cuéntalo aquí en una o dos líneas.)
+Mi plan y mi plan B están en [`decisiones.md`](proyecto/decisiones.md). Inicialmente había planificado desarrollar un tema propio (*Construcciones Maibru*) e instalar 5 plugins, pero para asegurar la estabilidad del diseño y cumplir con los plazos de entrega decidí activar mi Plan B: utilizar el tema oficial de bloques **Twenty Twenty-Four** y reducir los plugins a lo estrictamente necesario (**Forminator** para el formulario de contacto y **All-in-One WP Migration** para respaldos y migración).
 
 ## Plan de continuidad y rendimiento
 
