@@ -86,9 +86,9 @@ El objetivo de este proyecto es que puedas **respaldar tu sitio y reinstalarlo e
 
 | Plugin | Para qué lo uso | Gratis o de pago | Versión |
 |---|---|---|---|
-| Forminator | Creación y gestión del formulario de contacto del sitio | Gratis | [Ver en Plugins] |
-| All-in-One WP Migration | Exportar, respaldar y migrar el sitio entre Local WP y producción | Gratis | [Ver en Plugins] |
-
+| Forminator | Creación y gestión del formulario de contacto del sitio | Gratis | 1.58.6 |
+| All-in-One WP Migration | Exportar, respaldar y migrar el sitio entre Local WP y producción | Gratis | 7.113 |
+| WP Mail SMTP | Envío autenticado de correos mediante SMTP de Gmail para superar el bloqueo del hosting gratuito | Gratis | 4.10.5 |
 ## Páginas y entradas
 
 - **Páginas:** Inicio, Sobre nosotros, Blog y Contacto
@@ -105,4 +105,9 @@ Mi plan y mi plan B están en [`decisiones.md`](proyecto/decisiones.md). Inicial
 
 ## Uso de IA
 
-- **(Herramienta):** para qué la usé y qué ajusté yo.
+Durante el desarrollo y despliegue del proyecto utilicé inteligencia artificial (Gemini) como apoyo técnico puntual para:
+- Diagnosticar y resolver problemas de despliegue en **InfinityFree**, como el límite de peso del archivo `.wpress` (resolviéndolo mediante la exclusión de medios en **All-in-One WP Migration** 
+- Configurar el envío autenticado de correos en WordPress instalando **WP Mail SMTP** conectado con Gmail, superando así el bloqueo de correo directo del servidor gratuito para que funcionara el formulario de **Forminator**.
+- Estructurar la redacción técnica de la documentación del repositorio (`README.md` y el plan de continuidad) asegurando que reflejara con precisión la configuración y los pasos reales ejecutados en el sitio.
+
+
